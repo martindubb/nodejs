@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chalk": "^4.0.0"
+  },
+  "name": "demo2",
+  "version": "1.2.3",
+  "main": "core_modules.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node core_modules.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
